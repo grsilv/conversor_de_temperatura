@@ -1,0 +1,8 @@
+C:\Curso\conversor_de_temperatura\conversor_de_temperatura\bin\Debug\conversor_de_temperatura.exe.config
+C:\Curso\conversor_de_temperatura\conversor_de_temperatura\bin\Debug\conversor_de_temperatura.exe
+C:\Curso\conversor_de_temperatura\conversor_de_temperatura\bin\Debug\conversor_de_temperatura.pdb
+C:\Curso\conversor_de_temperatura\conversor_de_temperatura\obj\Debug\conversor_de_temperatura.csproj.AssemblyReference.cache
+C:\Curso\conversor_de_temperatura\conversor_de_temperatura\obj\Debug\conversor_de_temperatura.csproj.SuggestedBindingRedirects.cache
+C:\Curso\conversor_de_temperatura\conversor_de_temperatura\obj\Debug\conversor_de_temperatura.csproj.CoreCompileInputs.cache
+C:\Curso\conversor_de_temperatura\conversor_de_temperatura\obj\Debug\conversor_de_temperatura.exe
+C:\Curso\conversor_de_temperatura\conversor_de_temperatura\obj\Debug\conversor_de_temperatura.pdb
